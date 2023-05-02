@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 8, 251);
+}
+.btn1{
+    font-size: 60px;
+    padding: 25px 40px;
+    background: rgb(235, 126, 250);
+    border-color: rgb(52, 3, 50);
+    border-width: 5px;
+}
+.btn2{
+    font-size: 60px;
+    padding: 25px 40px;
+    background: rgb(235, 126, 250);
+    border-color: rgb(52, 3, 50);
+    border-width: 5px;
+    margin-top: 10px;
+}
+.btn3{
+    font-size: 60px;
+    padding: 25px 40px;
+    background: rgb(235, 126, 250);
+    border-color: rgb(52, 3, 50);
+    border-width: 5px;
+    margin-top: 10px;
+}
+.btn4{
+    font-size: 50px;
+    padding: 25px 40px;
+    background: rgb(235, 126, 250);
+    border-color: rgb(52, 3, 50);
+    border-width: 5px;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    cursor:pointer;
+}
+h1{
+    color: chocolate;
+    font-size: 50px;
+}
+h1{
+    color: maroon ;
+}
